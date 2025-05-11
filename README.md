@@ -33,8 +33,8 @@ I'm Rajat Sharma, a passionate blockchain developer exploring the depths of dece
 ## 📫 Let's Connect
 
 - 📧 Email: [rajatsharma.dev1@gmail.com](mailto:rajatsharma.dev1@gmail.com)
-- 💼 [LinkedIn]([https://www.linkedin.com/in/rajat-sharma-25659b257/](https://www.linkedin.com/in/rajat-sharma-25659b257/))
-- 🐦 [X (Twitter)]([https://x.com/rajatsharma_dev](https://x.com/Rajat_shrma_))
+- 💼 [LinkedIn](https://www.linkedin.com/in/rajat-sharma-25659b257/)
+- 🐦 [X (Twitter)](https://x.com/Rajat_shrma_)
 
 ---
 
