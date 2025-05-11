@@ -1,35 +1,40 @@
-# 👋 Hi, I'm Rajat Sharma
+# Hi there 👋 Thanks for stopping by!
 
-🔭 I'm a B.Tech student at LNMIIT, passionate about Web3, smart contracts, and blockchain infrastructure.
+I'm Rajat Sharma, a passionate blockchain developer exploring the depths of decentralized technologies. My focus lies in building smart contracts and dApps that are not just technically sound, but also practically useful.
 
-🌐 Currently building:
-- Confidential Escrow Protocol using IncoNetwork's encrypted SDK
-- A Uniswap V3-style DEX using custom tick-based liquidity pools
-- Full-stack MultiSig Wallet and Staking DApps
+## 🧠 About Me
 
-🛠️ Tech Stack:
-`Solidity` `Foundry` `Hardhat` `JavaScript` `React` `Ethers.js` `Inco SDK`
+- 🎓 B.Tech student at LNMIIT, Jaipur (Graduating 2026)
+- 🏀 I love playing basketball—it keeps me disciplined and energized.
+- 🧩 My philosophy while building: *Why build something if it's of no use to you or brings no value?*
+- 💭 I enjoy solving real problems with code, especially in the crypto space where innovation meets finance.
 
-📫 Reach me at: [rajatsharma.dev1@gmail.com](mailto:rajatsharma.dev1@gmail.com)
+## 🔧 Tech Stack
 
-🔗 Connect:
-- [LinkedIn](https://www.linkedin.com/in/rajat-sharma-25659b257/)
-- [GitHub](https://github.com/rajatsharma) <!-- your actual username -->
-- [Portfolio/Blog](#) <!-- optional -->
+- **Languages:** Solidity, JavaScript, HTML/CSS
+- **Frameworks & Tools:** Foundry, Hardhat, React, Vite, Ethers.js
+- **Tech:** Smart Contracts, DApps, Web3, Git
+
+## 🚀 Projects
+
+- [**Confidential Escrow using Inco Lightning SDK**](https://github.com/rajat-sharma-Dev/ConfidentialEscrow)
+  - Privacy-preserving escrow contract built using Inco Network’s encrypted primitives.
+  - Uses `e.rand()` and `e.allow()` for secure, buyer-authorized fund release.
+  
+- [**MultiSig Wallet DApp**](https://github.com/rajat-sharma-Dev/MultiSigWallet-Dapp)
+  - Full-stack DApp for managing shared funds through multi-owner wallets with confirmation thresholds.
+
+- [**Uniswap V3-style DEX**](https://github.com/rajat-sharma-Dev/DEX-DAPP)
+  - Smart contract implementation of a DEX using tick math and fee accounting logic.
+
+- [**Staking DApp**](https://github.com/rajat-sharma-Dev/Staking-Dapp)
+  - Full-stack DApp allowing users to stake ERC-20 tokens and earn rewards based on duration.
+
+## 📫 Let's Connect
+
+- 📧 Email: [rajatsharma.dev1@gmail.com](mailto:rajatsharma.dev1@gmail.com)
+- 💼 [LinkedIn]([https://www.linkedin.com/in/rajat-sharma-25659b257/](https://www.linkedin.com/in/rajat-sharma-25659b257/))
+- 🐦 [X (Twitter)]([https://x.com/rajatsharma_dev](https://x.com/Rajat_shrma_))
 
 ---
 
-### 📌 Highlighted Projects
-
-| Project | Description | Tech |
-|--------|-------------|------|
-| [Confidential Escrow](https://github.com/yourusername/inco-escrow) | Encrypted escrow system using Inco Lightning SDK | Solidity, Foundry |
-| [Uniswap V3 Clone](https://github.com/yourusername/uniswap-v3-clone) | DEX core with tick math and liquidity pool logic | Solidity, Hardhat |
-| [MultiSig Wallet DApp](https://github.com/yourusername/multisig-wallet-dapp) | Shared wallet for secure decentralized fund management | Solidity, React |
-| [Staking DApp](https://github.com/yourusername/staking-dapp) | Full-stack app for staking ERC20 tokens | Solidity, React |
-
----
-
-### 📈 GitHub Stats
-
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&hide_border=true&theme=radical)
