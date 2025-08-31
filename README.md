@@ -11,12 +11,16 @@ I'm Rajat Sharma, a passionate blockchain developer exploring the depths of dece
 
 ## 🔧 Tech Stack
 
-- **Languages:** Solidity, JavaScript, HTML/CSS
-- **Frameworks & Tools:** Foundry, Hardhat, React, Vite, Ethers.js
+- **Languages:** Solidity, JavaScript, HTML/CSS, Noir, C++, 
+- **Frameworks & Tools:** Foundry, Hardhat, React, Vite, Ethers.js, Node
 - **Tech:** Smart Contracts, DApps, Web3, Git
 
 ## 🚀 Projects
 
+- [**Zk-based-compliance-system**](https://github.com/rajat-sharma-Dev/Zk-based-compliance-system.git)
+  - ZK-based compliance and credit system using Noir circuits.
+  - Provides private proofs for identity, credit score, and tax compliance with on-chain verification.
+  - 
 - [**Confidential Escrow using Inco Lightning SDK**](https://github.com/rajat-sharma-Dev/ConfidentialEscrow)
   - Privacy-preserving escrow contract built using Inco Network’s encrypted primitives.
   - Uses `e.rand()` and `e.allow()` for secure, buyer-authorized fund release.
