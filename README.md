@@ -11,7 +11,7 @@ I'm Rajat Sharma, a passionate blockchain developer exploring the depths of dece
 
 ## 🔧 Tech Stack
 
-- **Languages:** Solidity, JavaScript, HTML/CSS, Noir, C++, 
+- **Languages:** Solidity, JavaScript, HTML/CSS,TailwindCSS, Typescript, Noir, C++, 
 - **Frameworks & Tools:** Foundry, Hardhat, React, Vite, Ethers.js, Node
 - **Tech:** Smart Contracts, DApps, Web3, Git
 
